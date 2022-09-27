@@ -21,7 +21,7 @@ A note taker app with the ability to add, save, and delete notes.
 
 ## Deployment 
 
-[!image](./public/assets/images/screencapture-note-taker-cjp-herokuapp-notes-2022-09-27-15_57_35.png)
+![image](./public/assets/images/screencapture-note-taker-cjp-herokuapp-notes-2022-09-27-15_57_35.png)
 
 [Click Here for Deployment](https://note-taker-cjp.herokuapp.com/notes)
 
